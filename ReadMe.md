@@ -127,3 +127,5 @@ Even with the exact same steps, different researchers will produce completely di
 Each step is a different experience for the individual. 
 Therefore, the uniqueness of research can be reflected in all aspects of a research work. 
 As a young researcher, I think an important lesson is to see yourself at every step.
+
+Email: suemonsuemon@gmail.com
