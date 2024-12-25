@@ -32,10 +32,10 @@ sth you want to do..."\]--
 
 
 Ir --
-1) Reread the technical papers on this topic
+"1) Reread the technical papers on this topic
 2) Read techniques and methods
 3) Search and understand the rationale
-4) Ignore the technical details
+4) Ignore the technical details"
 --> At([Know the techniques used])    
 
 
