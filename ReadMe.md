@@ -32,10 +32,10 @@ sth you want to do..."\]--
 
 
 Ir --
-"1. Reread the technical papers on this topic
-2. Read techniques and methods
-3. Search and understand the rationale
-4. Ignore the technical details"
+"1. Reread the technical papers on this topic<br>
+2. Read techniques and methods<br>
+3. Search and understand the rationale<br>
+4. Ignore the technical details<br>"
 --> At([Know the techniques used])    
 
 
@@ -85,5 +85,5 @@ Aopp --wait for months-->Aopps([Submit,
                      Reply to Reviews,
                      Publish])
 
-
+```
 
