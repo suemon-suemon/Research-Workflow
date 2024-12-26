@@ -27,15 +27,20 @@ I[\inputs\]--multiple steps-->A([target])
 For junior researchers (e.g., PhD candidates), the research work starts with *some given project requirements* and 
 ends with *the publication of a paper*. Innovations and contributions primarily lie in technical solutions.
 
-I reflected on and summarized my own workflow, as shown below. 
-When I drew this flow, I noticed that it had an interesting shape: wide in the middle and narrow at both ends.
-In fact, this is an underlying aspect of my work: I start with one or two interesting ideas, 
-do a lot of research, thinking, designing, experimenting, and finally wrap it up into a complete paper.
-The process is long and many of the steps are repeated.
-Sometimes it's fun, sometimes it's boring, sometimes it's trouble. 
-Yet, I find myself traversing this path over and over.
-This repository serves as a space to pause, reflect, and map out what this road truly looks like.
+I reflected on and summarized my workflow, as shown below. 
+Interestingly, the flowchart takes on a shape that’s wide in the middle and narrow at both ends. 
+This shape reflects the essence of my work: starting with one or two compelling ideas, 
+diving into extensive research, brainstorming, designing, and experimenting, 
+and finally distilling everything into a polished paper.
 
+The journey is long, often involving repeated steps. 
+It can be fun at times, tedious at others, and occasionally challenging. 
+Yet, I find myself traversing this path over and over.
+In this journey, I often grapple with feelings of spiritual loneliness and a sense of being lost. 
+Yet, when I take a moment to pause and reflect on the path I’ve traveled and the progress I’ve made, 
+a sense of relief washes over me. 
+It’s in these moments of clarity that I find renewed courage and 
+determination to continue moving forward.
 
 I'm always curious about how others do research and look for possibilities to improve productivity. 
 So, welcome to share.
@@ -43,8 +48,8 @@ So, welcome to share.
 ```mermaid
 flowchart TB
 
-Ir[\"tasks,
-    requirements..."\]--
+Ir[\tasks,
+    requirements...\]--
 1.collect magazine papers on this scenario
 2.read pictures/summary texts/basic concepts
 --> As([Know the general scenario])  
@@ -64,7 +69,7 @@ Ir --
 
 
 Io[\"your own ideas,
-sth you want to do..."\]--
+    sth you want to do..."\]--
 1.Collect relevant technical reports/papers
 2.Read the Abstract/Intro to understand the rationale
 3.If match, understand the mathematical derivation
@@ -87,8 +92,8 @@ Aos --
 --> Aopp
 
 Aot -- 
-new solutions naturally emerge
-during integration
+new solutions naturally 
+emerge during integration
 --> Aos([design your own technical solution]) -- 
 1.choose suitable opensorce programs
 2.run and understand their implementations
