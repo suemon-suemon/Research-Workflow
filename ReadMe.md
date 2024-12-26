@@ -1,9 +1,29 @@
 # Research Workflow
-This repository presents and organizes workflows for young researchers conducting their studies. 
+This repository presents and organizes workflows for researchers conducting their studies. 
 It includes detailed goals and the steps. 
 These ideas come from my reflections as a PhD candidate on how to approach research effectively. 
 Fellow researchers are welcome to share their workflows and propose possibilities for 
 improving these processes.
+
+The journey is long, often involving repeated steps. 
+It can be fun at times, tedious at others, and occasionally challenging. 
+Yet, I find myself traversing this path over and over.
+In this journey, I often grapple with feelings of spiritual loneliness and a sense of being lost. 
+Yet, when I take a moment to pause and reflect on the path I’ve traveled and the progress I’ve made, 
+a sense of relief washes over me. 
+It’s in these moments of clarity that I find renewed courage and 
+determination to continue moving forward.
+
+Even with the exact same steps, different researchers will produce completely different results. 
+Each step is a different experience for the individual. 
+Therefore, the uniqueness of research can be reflected in all aspects of a research work. 
+As a young researcher, I think an important lesson is to see yourself at every step.
+
+I'm always curious about how others do research and look for possibilities to improve productivity. 
+So, welcome to share.
+
+📧Email: suemonsuemon@gmail.com
+
 
 ## Basic Elements
 The complete research process includes:
@@ -33,17 +53,7 @@ This shape reflects the essence of my work: starting with one or two compelling 
 diving into extensive research, brainstorming, designing, and experimenting, 
 and finally distilling everything into a polished paper.
 
-The journey is long, often involving repeated steps. 
-It can be fun at times, tedious at others, and occasionally challenging. 
-Yet, I find myself traversing this path over and over.
-In this journey, I often grapple with feelings of spiritual loneliness and a sense of being lost. 
-Yet, when I take a moment to pause and reflect on the path I’ve traveled and the progress I’ve made, 
-a sense of relief washes over me. 
-It’s in these moments of clarity that I find renewed courage and 
-determination to continue moving forward.
 
-I'm always curious about how others do research and look for possibilities to improve productivity. 
-So, welcome to share.
 
 ```mermaid
 flowchart TB
@@ -128,9 +138,5 @@ Aopp --wait for months-->Aopps([Submit,
                      Reply to Reviews,
                      Publish])
 ```
-Even with the exact same steps, different researchers will produce completely different results. 
-Each step is a different experience for the individual. 
-Therefore, the uniqueness of research can be reflected in all aspects of a research work. 
-As a young researcher, I think an important lesson is to see yourself at every step.
 
-Email: suemonsuemon@gmail.com
+
